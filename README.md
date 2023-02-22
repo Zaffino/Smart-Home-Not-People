@@ -126,13 +126,13 @@ Alessandro Cacciabue: Cleaned the code, wrote documentation, fixed the project l
 
 Daniele Obrelli: Implemented most of the sensors and integrated them with Blynk.
 
-Cosimo Tobia Zaffino: Took care of the Hardware and implemented the RFID reader and the movement sensor.
+Cosimo Tobia Zaffino: Took care of the Hardware and implemented the RFID reader.
 
 
 
 ## Powerpoint and YouTube links
 
-yt: link
+[YouTube](https://youtu.be/DiyxEdCU27c)
 
 [Powerpoint](https://docs.google.com/presentation/d/1yFMCCMylUWCsUBBLMD4ziyuEtQKCLL_s7DBCxvGskGc/edit?usp=sharing)
 
