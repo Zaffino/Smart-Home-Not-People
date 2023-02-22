@@ -1,15 +1,3 @@
-TODO
-
-project layout
-
-check compile and execution
-
-add links
-
-
-
-
-
 # PROJECT SMART HOME NOT PEOPLE
 
 Smart home not people is a model of a smart home.
@@ -59,13 +47,15 @@ Every library without link can be added from the arduino IDE.
 ## Project layout
 
 ```
+├── Smart Home Not People - IoT Project.pptx
 ├── readme.MD
-├── NodeMCU
-|   ├── NodeMCU.ino
-│   └── NodeMCU.h
-└── Arduino
-    ├── Arduino
-    └── Arduino.h
+└── IoT Project
+    ├── NodeMCU
+    |   ├── NodeMCU.ino
+    │   └── NodeMCU.h
+    └── Arduino
+        ├── Arduino
+        └── Arduino.h
 ```
 
 
