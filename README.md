@@ -15,7 +15,6 @@ These two mcu work together using I²C technology as master and slave.
 - The Blynk app
 - [RFID library](https://www.progettiarduino.com/uploads/8/1/0/8/81088074/rfidmaster.zip)
 - Servo library
-- arduino-timer library
 - Blynk library
 - DHT sensor library
 - WiFiEsp library
