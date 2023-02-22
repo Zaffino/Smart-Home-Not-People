@@ -19,7 +19,6 @@ These two mcu work together using I²C technology as master and slave.
 - DHT sensor library
 - WiFiEsp library
 - Wire library
-- Stepper library
 - Servo library
 
 Every library without link can be added from the arduino IDE.
