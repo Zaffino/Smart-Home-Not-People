@@ -3,7 +3,6 @@
 #include <Servo.h>
 #include <SPI.h>
 #include <RFID.h>
-#include <arduino-timer.h>
 #include "Arduino.h"
 
 //const int stepsPerRevolution = 200;   //.h
