@@ -77,6 +77,7 @@ Click on the wrench icon and add the following widgets:
 | Switch      | V2         | Off = 1 On = 0 Integer |
 | Switch      | V2         | Off = 3 On = 2 Integer |
 | Switch      | V3         | Off = 4 On = 5 Integer |
+| Switch      | V7         | Off = 1 On = 0 Integer |
 | LED         | V4         | Integer                |
 | LED         | V5         | Integer                |
 
